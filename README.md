@@ -15,7 +15,10 @@ I'm currently a student pursuing a Bachelor of Science in Computer Science at Mc
 <img align="left" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" />
 <img align="left" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/>
 
+###
+
 &nbsp;
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffDotPng)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
