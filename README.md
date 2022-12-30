@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Jeff Zhang 👋
+
+I'm currently a student pursuing a Bachelor of Science in Computer Science at McGill University. I'm passionate about tech and always trying to learn new things. Currently I'm learning full-stack web development 💻
+
+### 🛠️ Technologies and Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffDotPng)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JeffDotPng/JeffDotPng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
