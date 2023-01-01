@@ -17,7 +17,7 @@ I'm currently a student pursuing a Bachelor of Science in Computer Science at Mc
 <br>
 <br>
 
-### Stats
+### 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffDotPng&theme=tokyonight">
 <!--
