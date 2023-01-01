@@ -1,6 +1,6 @@
 # Hi there, I'm Jeff Zhang 👋
 
-I'm currently a student pursuing a Bachelor of Science in Computer Science at McGill University. I'm passionate about tech and always trying to learn new things. Currently I'm learning full-stack web development 💻
+I'm currently a student pursuing a Bachelor of Science in Computer Science at McGill University. I'm passionate about tech and always trying to learn new things. Currently I'm learning Rust and full-stack web development 💻
 
 ### 🛠️ Technologies and Tools
 
