@@ -13,7 +13,7 @@ I'm currently a student pursuing a Bachelor of Science in Computer Science at Mc
 <img align="left" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" />
 <img align="left" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" />
 <img align="left" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" />
-<img align="left" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/>
+<img align="left" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/><br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffDotPng&theme=tokyonight">
